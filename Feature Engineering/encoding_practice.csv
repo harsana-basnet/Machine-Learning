@@ -1,0 +1,201 @@
+Customer_ID,City,Payment_Method,Education_Level,Service_Rating,Purchase_Decision
+1,Paris,PayPal,Master,Poor,Yes
+2,Berlin,PayPal,Bachelor,Poor,Yes
+3,Tokyo,PayPal,Master,Poor,Yes
+4,Berlin,Debit Card,Master,Good,Yes
+5,Berlin,Debit Card,Bachelor,Good,No
+6,London,Cash,Bachelor,Poor,No
+7,Tokyo,Cash,Bachelor,Excellent,Yes
+8,Tokyo,Credit Card,High School,Good,Yes
+9,Tokyo,Credit Card,PhD,Poor,No
+10,Berlin,Cash,High School,Poor,Yes
+11,Paris,Debit Card,High School,Excellent,Yes
+12,Tokyo,PayPal,Master,Fair,No
+13,Berlin,Cash,Bachelor,Good,Yes
+14,London,Credit Card,PhD,Excellent,No
+15,Paris,Debit Card,Master,Poor,Yes
+16,London,Cash,High School,Poor,No
+17,Paris,Cash,Bachelor,Excellent,No
+18,Berlin,Debit Card,Master,Good,No
+19,New York,Cash,Bachelor,Fair,Yes
+20,Paris,Debit Card,Master,Fair,No
+21,London,PayPal,Bachelor,Poor,Yes
+22,Berlin,Debit Card,High School,Good,Yes
+23,Paris,Debit Card,PhD,Fair,Yes
+24,New York,Debit Card,High School,Good,Yes
+25,New York,Cash,PhD,Good,No
+26,Tokyo,Cash,Bachelor,Poor,No
+27,Tokyo,Debit Card,Master,Fair,Yes
+28,London,Cash,High School,Excellent,Yes
+29,Paris,Credit Card,PhD,Poor,No
+30,Paris,Credit Card,High School,Fair,Yes
+31,Tokyo,Cash,PhD,Fair,No
+32,Paris,Cash,High School,Fair,Yes
+33,Paris,Debit Card,PhD,Fair,Yes
+34,New York,PayPal,PhD,Fair,No
+35,Tokyo,Cash,Bachelor,Good,Yes
+36,Berlin,Credit Card,PhD,Poor,No
+37,Tokyo,Debit Card,Bachelor,Good,Yes
+38,Berlin,Cash,PhD,Excellent,Yes
+39,New York,Credit Card,Master,Fair,Yes
+40,London,Credit Card,Master,Poor,No
+41,Paris,PayPal,Master,Fair,Yes
+42,New York,Debit Card,PhD,Poor,Yes
+43,Paris,Debit Card,Bachelor,Good,Yes
+44,London,PayPal,Bachelor,Poor,Yes
+45,London,PayPal,PhD,Excellent,No
+46,New York,Debit Card,Master,Excellent,No
+47,London,Debit Card,Master,Poor,Yes
+48,Berlin,Cash,Bachelor,Poor,No
+49,London,Cash,Master,Poor,Yes
+50,Paris,PayPal,High School,Poor,Yes
+51,Paris,Cash,Bachelor,Excellent,Yes
+52,Paris,Credit Card,Master,Fair,No
+53,Paris,Cash,Bachelor,Poor,No
+54,Berlin,Cash,High School,Poor,No
+55,Tokyo,Credit Card,Bachelor,Excellent,No
+56,New York,PayPal,Bachelor,Excellent,No
+57,Paris,Credit Card,Bachelor,Good,No
+58,London,Cash,Bachelor,Poor,No
+59,Paris,PayPal,High School,Good,No
+60,London,Cash,PhD,Excellent,No
+61,London,Credit Card,Bachelor,Excellent,Yes
+62,Paris,Credit Card,Bachelor,Fair,No
+63,Berlin,Cash,Master,Poor,No
+64,London,Debit Card,Bachelor,Good,No
+65,London,Debit Card,Master,Excellent,No
+66,Paris,Credit Card,PhD,Excellent,No
+67,London,Credit Card,High School,Good,No
+68,London,Debit Card,High School,Fair,No
+69,Paris,Debit Card,PhD,Excellent,No
+70,Paris,Cash,High School,Poor,No
+71,New York,Cash,PhD,Excellent,No
+72,Berlin,Debit Card,PhD,Poor,No
+73,Berlin,Cash,PhD,Good,Yes
+74,London,Cash,High School,Poor,Yes
+75,Berlin,PayPal,Master,Good,No
+76,London,Cash,PhD,Poor,No
+77,New York,Credit Card,Bachelor,Good,Yes
+78,Paris,Cash,High School,Poor,No
+79,Paris,Cash,PhD,Fair,Yes
+80,Paris,Debit Card,PhD,Poor,Yes
+81,Berlin,Credit Card,Bachelor,Poor,Yes
+82,New York,Cash,Master,Fair,Yes
+83,Berlin,Cash,Master,Excellent,Yes
+84,Berlin,PayPal,Master,Excellent,No
+85,New York,Cash,PhD,Poor,Yes
+86,New York,Cash,PhD,Fair,No
+87,New York,PayPal,PhD,Poor,No
+88,New York,Debit Card,High School,Good,Yes
+89,Paris,Cash,Bachelor,Good,Yes
+90,Tokyo,PayPal,PhD,Poor,No
+91,Tokyo,Credit Card,Bachelor,Excellent,Yes
+92,New York,Debit Card,Bachelor,Excellent,Yes
+93,Tokyo,Credit Card,Master,Poor,No
+94,Tokyo,Credit Card,High School,Poor,No
+95,New York,PayPal,PhD,Good,Yes
+96,Tokyo,Cash,Master,Excellent,No
+97,Berlin,PayPal,Master,Poor,Yes
+98,London,PayPal,PhD,Good,Yes
+99,London,PayPal,Bachelor,Excellent,Yes
+100,New York,PayPal,Master,Fair,No
+101,Paris,Debit Card,Bachelor,Good,No
+102,New York,Cash,High School,Excellent,No
+103,Paris,Credit Card,Bachelor,Excellent,No
+104,London,Credit Card,High School,Good,No
+105,New York,Cash,Bachelor,Fair,Yes
+106,Berlin,Credit Card,Master,Good,Yes
+107,Tokyo,Cash,Master,Excellent,Yes
+108,Paris,Credit Card,High School,Poor,Yes
+109,Tokyo,PayPal,PhD,Poor,No
+110,Tokyo,Credit Card,High School,Good,Yes
+111,New York,Cash,High School,Excellent,No
+112,Tokyo,Cash,Bachelor,Poor,Yes
+113,Berlin,Cash,Bachelor,Excellent,No
+114,Tokyo,Cash,High School,Good,No
+115,New York,Cash,Master,Poor,Yes
+116,Berlin,Debit Card,Bachelor,Excellent,Yes
+117,London,Debit Card,PhD,Poor,Yes
+118,Tokyo,Credit Card,Bachelor,Good,Yes
+119,New York,Cash,Bachelor,Excellent,No
+120,London,Credit Card,PhD,Poor,Yes
+121,London,Cash,High School,Good,Yes
+122,Paris,Cash,PhD,Poor,No
+123,Berlin,Debit Card,High School,Poor,Yes
+124,Tokyo,Debit Card,High School,Fair,Yes
+125,New York,PayPal,High School,Fair,Yes
+126,Paris,Debit Card,PhD,Good,Yes
+127,Berlin,PayPal,High School,Fair,Yes
+128,Paris,PayPal,Master,Good,No
+129,Berlin,PayPal,PhD,Fair,Yes
+130,Berlin,PayPal,Master,Poor,Yes
+131,Tokyo,PayPal,High School,Good,Yes
+132,Berlin,Credit Card,Bachelor,Good,Yes
+133,Paris,Debit Card,High School,Poor,Yes
+134,Berlin,PayPal,Master,Good,No
+135,Tokyo,Cash,Master,Good,Yes
+136,Tokyo,Debit Card,PhD,Fair,No
+137,Paris,Debit Card,Bachelor,Good,No
+138,London,PayPal,PhD,Excellent,Yes
+139,London,Credit Card,Master,Poor,Yes
+140,Berlin,PayPal,High School,Fair,Yes
+141,New York,Credit Card,Bachelor,Fair,Yes
+142,Berlin,Cash,High School,Excellent,No
+143,Paris,Debit Card,High School,Poor,Yes
+144,Paris,Cash,Bachelor,Poor,Yes
+145,Paris,Credit Card,PhD,Fair,Yes
+146,Paris,Credit Card,High School,Good,Yes
+147,Paris,Cash,Master,Fair,Yes
+148,Tokyo,Credit Card,High School,Poor,Yes
+149,London,Cash,Bachelor,Excellent,No
+150,Paris,Debit Card,Bachelor,Fair,No
+151,New York,Cash,Bachelor,Poor,Yes
+152,New York,Debit Card,PhD,Fair,Yes
+153,New York,Cash,High School,Good,Yes
+154,New York,Credit Card,PhD,Fair,No
+155,Tokyo,Cash,PhD,Fair,Yes
+156,New York,Credit Card,Bachelor,Poor,No
+157,Paris,Cash,Bachelor,Poor,Yes
+158,Berlin,Cash,PhD,Poor,Yes
+159,New York,PayPal,High School,Fair,Yes
+160,Tokyo,Credit Card,Master,Good,Yes
+161,Tokyo,PayPal,PhD,Excellent,No
+162,New York,Credit Card,High School,Excellent,No
+163,Berlin,PayPal,Bachelor,Poor,Yes
+164,New York,Debit Card,Bachelor,Poor,Yes
+165,Tokyo,Cash,High School,Fair,No
+166,London,Credit Card,Master,Excellent,No
+167,Paris,Credit Card,Bachelor,Poor,No
+168,Tokyo,Cash,Bachelor,Good,No
+169,New York,Credit Card,Bachelor,Good,Yes
+170,Paris,Credit Card,High School,Poor,No
+171,New York,PayPal,PhD,Poor,Yes
+172,New York,Credit Card,Bachelor,Excellent,No
+173,London,Debit Card,PhD,Excellent,No
+174,Paris,Debit Card,Master,Fair,No
+175,Paris,Cash,Bachelor,Excellent,No
+176,London,Credit Card,Bachelor,Good,No
+177,Tokyo,Cash,Master,Good,Yes
+178,New York,Debit Card,Bachelor,Poor,Yes
+179,Berlin,Credit Card,PhD,Excellent,No
+180,New York,Credit Card,High School,Fair,No
+181,New York,Cash,PhD,Good,Yes
+182,Tokyo,Debit Card,High School,Good,No
+183,New York,Credit Card,High School,Fair,No
+184,London,Cash,PhD,Fair,Yes
+185,London,Debit Card,PhD,Good,No
+186,Paris,Cash,PhD,Good,No
+187,Berlin,PayPal,PhD,Fair,Yes
+188,New York,Credit Card,Master,Good,Yes
+189,New York,PayPal,Bachelor,Poor,Yes
+190,Tokyo,Debit Card,High School,Poor,No
+191,London,PayPal,PhD,Fair,Yes
+192,Berlin,PayPal,PhD,Excellent,Yes
+193,Paris,Debit Card,PhD,Fair,Yes
+194,London,Cash,Master,Fair,Yes
+195,Paris,PayPal,PhD,Excellent,Yes
+196,Tokyo,Cash,PhD,Excellent,Yes
+197,Tokyo,PayPal,PhD,Excellent,No
+198,New York,Cash,Bachelor,Poor,No
+199,Berlin,Debit Card,Master,Good,Yes
+200,Paris,PayPal,PhD,Poor,Yes
